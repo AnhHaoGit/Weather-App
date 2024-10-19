@@ -1,0 +1,7 @@
+.tracker {
+  width: 0.5rem;
+  height: 7rem;
+  background: linear-gradient(180deg, rgba(231,7,246,1) 4%, rgba(246,59,7,1) 21%, rgba(255,136,0,1) 41%, rgba(255,239,0,1) 65%, rgba(128,224,8,1) 94%);  
+  border-radius: 4rem;
+  position: relative;
+}
